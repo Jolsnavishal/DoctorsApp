@@ -1,0 +1,71 @@
+{
+  "doctors": [
+    {
+      "id": 166144,
+      "name": "Dr. Rekha",
+      "gender": "F",
+      "new_slug": "dr-rekha-paedeatrician",
+      "qualifications": [
+        {
+          "qualification": {
+            "name": "MBBS,MD"
+          }
+        }
+      ],
+      "specializations": [
+        {
+          "subspecialization": {
+            "speciality": {
+              "speciality": "Paedeatrician"
+            },
+            "subspecialization": "Pediatric Dentist"
+          }
+        }
+      ],
+      "photos": [
+        {
+          "photo_url": "https://www.example.com/jsvdvsjfhksjh",
+          "photo_default": true
+        }
+      ],
+      "relations": [
+        {
+          "practice": {
+            "id": 1,
+            "name": "BMH",
+            "new_slug": "BMH-calicut-3-phase",
+            "practice_type": "Hospital",
+            "street_address": "6765/9, 9th Cross, K R Nagar 3 Phase",
+            "locality": {
+              "name": "K R Nagar 3 Phase",
+              "city": {
+                "name": "Calicut",
+                "state": {
+                  "name": "Kerala",
+                  "country": {
+                    "name": "India",
+                    "currency": "INR",
+                    "helpline_number": "+91 95 80809090",
+                    "tzdata_identifier": "Asia/Kolkata",
+                    "tz_offset": 330,
+                    "country_code": "IN"
+                  }
+                }
+              }
+            },
+            "latitude": "12.910295",
+            "longitude": "77.599681",
+            "photos": [
+              {
+                "url": "https://www.example.com/ljfdlkbjfdlbkdmfbkfdmb",
+                "logo": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "total": 3
+}
+
